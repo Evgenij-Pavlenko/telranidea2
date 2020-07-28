@@ -21,6 +21,7 @@ public class Main {
     }
 
     public static String changeCase(String str) {
+        System.out.println("hello");
         char[] ch = str.toCharArray();
         for (int i = 0; i < ch.length; i++) {
             if (!Character.isUpperCase(ch[i])) {
@@ -29,8 +30,7 @@ public class Main {
                 ch[i] = Character.toLowerCase(ch[i]);
             }
         }
-        String retSting = String.valueOf(ch);
-        return retSting;
+        return String.valueOf(ch);
     }
 
 //    public static List<Integer> doubleInt(List<Integer> list) {
