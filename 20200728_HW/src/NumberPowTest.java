@@ -10,4 +10,14 @@ class NumberPowTest {
         assertEquals(64, numberPow.numberToPow(8,2));
     }
 
+    @Test
+    public void testNumberPow2_numAndPower_numInPower(){
+        assertEquals(64, numberPow.numberToPow(8,2));
+    }
+
+    @Test
+    public void testNumberPow2_someNumAndPower0_numInPower(){
+        assertEquals(1, numberPow.numberToPow(8,0));
+    }
+
 }
