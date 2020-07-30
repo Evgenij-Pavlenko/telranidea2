@@ -15,6 +15,12 @@ class SortedListMultTest {
     }
 
     @Test
+    public void testSortedList_nIs34_true(){
+        List<Integer> toTest = Arrays.asList(1,3,8,9,9,11,20);
+        assertFalse(mult.isDevided(toTest, 34));
+    }
+
+    @Test
     public void testSortedList_nIs64_false(){
         List<Integer> toTest = Arrays.asList(1,3,8,9,9,11,20);
         assertFalse(mult.isDevided(toTest, 64));

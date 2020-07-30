@@ -17,4 +17,12 @@ public class Square {
         }
         return num;
     }
+
+    public static int sqr(int n) {
+        if (n == 1) {
+            return 1;
+        }
+        int res = sqr(n - 1) + n + n - 1;
+        return res;
+    }
 }
