@@ -36,4 +36,10 @@ class NOKTest {
         assertEquals(91, nok.findNOK(13, 7));
     }
 
+    @Test
+    public void testFindNOK_15and25_2() {
+        assertEquals(75, nok.findNOK(15, 25));
+        assertEquals(75, nok.findNOK(25, 15));
+    }
+
 }
