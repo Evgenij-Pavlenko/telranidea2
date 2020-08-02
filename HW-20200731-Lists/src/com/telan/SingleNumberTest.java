@@ -26,7 +26,7 @@ class SingleNumberTest {
     @Test
     public void testGetUniqe_listWithTwo5_0() {
         List<Integer> list = Arrays.asList(5, 5, 5, 5);
-        assertEquals(0, single.getUnique(list));
+        assertNotEquals(5, single.getUnique(list));
     }
 
     @Test
