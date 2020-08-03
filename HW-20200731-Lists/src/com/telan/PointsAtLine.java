@@ -8,7 +8,7 @@ public class PointsAtLine {
         List<Double> retDoubleList = new ArrayList<>();
         for (int i = 0; i < list.size(); i++) {
             List<Double> temp = new ArrayList<>();
-            for (int j = i; j < list.size() && list.get(j) <= (list.get(i) + L); j++) {
+            for (int j = i; j < list.size() && list.get(j) < (list.get(i) + L); j++) {
                 temp.add(list.get(j));
                 if (retDoubleList.size() < temp.size()) {
                     retDoubleList = temp;
