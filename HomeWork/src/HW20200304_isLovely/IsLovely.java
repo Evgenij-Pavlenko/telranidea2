@@ -24,17 +24,20 @@ public class IsLovely {
 //        return true;
 
         //variant two - stream
-        List<Integer> list = new ArrayList<>();
-        do {
-            list.add((int) (number % 10));
-            number /= 10;
-        } while (number != 0);
-//        list.sort(Integer::compareTo);
-        boolean b = list.stream()
-                .collect(Collectors.groupingBy(Integer::intValue, Collectors.counting()))
-                .values()
-                .stream()
+//        List<Integer> list = new ArrayList<>();
+//        do {
+//            list.add((int) (number % 10));
+//            number /= 10;
+//        } while (number != 0);
+       boolean b =  (String.valueOf(number))
+                .chars()
+                .map(Character::charCount)
                 .anyMatch(v -> v > 2);
+//        boolean b = list.stream()
+//                .collect(Collectors.groupingBy(Integer::intValue, Collectors.counting()))
+//                .values()
+//                .stream()
+//                .anyMatch(v -> v > 2);
         return !b;
     }
 }
