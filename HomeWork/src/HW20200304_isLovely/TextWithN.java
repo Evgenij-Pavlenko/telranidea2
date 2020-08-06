@@ -10,7 +10,7 @@ public class TextWithN {
         }
         for (int i = N; i >=0 ; i--) {
             if (s.charAt(i)==' '){
-            return s.substring(0, i);
+            return s.substring(0, i).trim();
             }
         }
 return "";

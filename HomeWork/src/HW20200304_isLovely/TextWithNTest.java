@@ -18,6 +18,16 @@ class TextWithNTest {
         assertEquals("Hello", text.makeNewText(s, 5));
     }
     @Test
+    public void testMakeText_HelloWorldAndN6_Hello(){
+        String s = "Hello world";
+        assertEquals("Hello", text.makeNewText(s, 5));
+    }
+    @Test
+    public void testMakeText_HelloAndTwoSpasedAndN5_Hello(){
+        String s = "Hello  world";
+        assertEquals("Hello", text.makeNewText(s, 6));
+    }
+    @Test
     public void testMakeText_HelloWorldAndN7_Hello(){
         String s = "Hello world";
         assertEquals("Hello", text.makeNewText(s, 7));
