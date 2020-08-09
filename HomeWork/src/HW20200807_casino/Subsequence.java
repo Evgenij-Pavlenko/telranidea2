@@ -32,12 +32,15 @@ public class Subsequence {
 //        }
 
         //variant 2 with String - is this faster?
+        if (second.length() == 0) {
+            return false; // это на костыль похоже или нет?
+        }
         char[] chFirst = first.toCharArray();
         int intSequence = -1; // if at place 0
         int count = 0;
         for (char ch : chFirst) {
-            int temp = second.indexOf(ch);
-            if (temp > intSequence) {
+            int temp = second.indexOf(ch, intSequence + 1);
+            if (temp >= intSequence) {
                 intSequence = temp;
                 count++;
             }

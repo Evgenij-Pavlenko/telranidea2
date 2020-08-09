@@ -42,4 +42,32 @@ class SubsequenceTest {
         assertTrue(subsequence.isSubsequence(first, second));
     }
 
+    @Test
+    public void testIsSubsequence_StringDoubleSymbolSubstring_false() {
+        String first = "bccd";
+        String second = "A$%bGDFcLKKd";
+        assertFalse(subsequence.isSubsequence(first, second));
+    }
+
+    @Test
+    public void testIsSubsequence_StringSubstringDoubleSymbol_true() {
+        String first = "bcd";
+        String second = "A$%bGDFcLcKKd";
+        assertTrue(subsequence.isSubsequence(first, second));
+    }
+
+    @Test
+    public void testIsSubsequence_StringDoubleSymbolSubstringDoubleSymbol_true() {
+        String first = "bccd";
+        String second = "A$%bGDFcLcKKd";
+        assertTrue(subsequence.isSubsequence(first, second));
+    }
+
+    @Test
+    public void testIsSubsequence_StringDoubleSymbolSubstringDoubleSymbolBeside_true() {
+        String first = "bccd";
+        String second = "A$%bGDFccLKKd";
+        assertTrue(subsequence.isSubsequence(first, second));
+    }
+
 }
