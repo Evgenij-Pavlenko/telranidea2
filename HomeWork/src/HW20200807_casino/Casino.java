@@ -30,18 +30,19 @@ public class Casino {
 //                count++;
 //            }
 //        }
-        int count = 0;
-        return loopGame(N, M, count);
+        return loopGame(N, M);
 
     }
 
-    private int loopGame(int N, int M, int count) {
+    private int loopGame(int N, int M) {
         if (N == 0) {
-            return 1;
+            return 0;
+        } else if (N == 1) {
+            return loopGame(N - 1, M);
         }
         if (N % 2 == 0 && M > 0) {
-            return loopGame(N / 2, M - 1, count+1);
+            return loopGame(N / 2, M - 1) + 1;
         }
-        return loopGame(N - 1, M, count+1);
+        return loopGame(N - 1, M)+1;
     }
 }
