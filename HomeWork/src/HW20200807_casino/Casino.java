@@ -15,23 +15,33 @@ public class Casino {
      * @return - number of games
      */
     public int minCountGame(int N, int M) {
-        //обнуляем 1 доллар)
-        if (N == 0) { // но кастыль( позже попробую через рекурсию
-            return 1;
-        }
+//        //обнуляем 1 доллар)
+//        if (N == 0) { // но кастыль( позже попробую через рекурсию
+//            return 1;
+//        }
+//        int count = 0;
+//        while (N > 1) {
+//            if (N % 2 == 0 && M > 0) {
+//                N /= 2;
+//                M--;
+//                count++;
+//            } else {
+//                N -= 1;
+//                count++;
+//            }
+//        }
         int count = 0;
-        while (N > 1) {
-            if (N % 2 == 0 && M > 0) {
-                N /= 2;
-                M--;
-                count++;
-            } else {
-                N -= 1;
-                count++;
-            }
-        }
-        return count;
+        return loopGame(N, M, count);
 
     }
 
+    private int loopGame(int N, int M, int count) {
+        if (N == 0) {
+            return 1;
+        }
+        if (N % 2 == 0 && M > 0) {
+            return loopGame(N / 2, M - 1, count+1);
+        }
+        return loopGame(N - 1, M, count+1);
+    }
 }
