@@ -36,14 +36,12 @@ public class Casino {
     }
 
     private int loopGame(int N, int M) {
-        if (N == 0) {
+        if (N == 1) {
             return 0;
-        } else if (N == 1) {
-            return loopGame(N - 1, M);
         }
         if (N % 2 == 0 && M > 0) {
             return loopGame(N / 2, M - 1) + 1;
         }
-        return loopGame(N - 1, M)+1;
+        return loopGame(N - 1, M) + 1;
     }
 }
