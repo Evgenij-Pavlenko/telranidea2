@@ -1,9 +1,16 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.sql.Time;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
 public class HungerGames {
-    public static void main(String[] args) throws InterruptedException {
+    public static final long SLEEP_TIME = 2000;
+
+    public static void main(String[] args) throws InterruptedException, IOException {
         List<Score> score = new ArrayList<>();
         Tarakan t1 = new Tarakan("t1", 10, score);
         Tarakan t2 = new Tarakan("t2", 10, score);
@@ -35,22 +42,24 @@ public class HungerGames {
         th8.start();
         th9.start();
         th1000.start();
-        th1.join();
-        th2.join();
-        th3.join();
-        th4.join();
-        th5.join();
-        th6.join();
-        th7.join();
-        th8.join();
-        th9.join();
-        th1000.join();
+        Thread.sleep(SLEEP_TIME);
         score.sort(Comparator.comparingInt(Score::getScore));
+        getWinner(score);
         // бывает: Exception in thread "main" java.lang.NullPointerException((
         for (int i = 0; i < score.size(); i++) {
-            System.out.println("Place: " + (i+1) + ", "
-            + score.get(i));
+            System.out.println("Place: " + (i + 1) + ", "
+                    + score.get(i));
         }
+    }
+
+    public static void getWinner(List<Score> score) throws IOException {
+        System.out.println("Enter winners name: ");
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String input = br.readLine();
+        if (input.equals(score.get(0))) {
+            System.out.println("Your win!!");
+        }
+        System.out.println("Luck next time");
 
     }
 }
