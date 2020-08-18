@@ -8,7 +8,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class HungerGames {
-    public static final long SLEEP_TIME = 2000;
+    public static final long SLEEP_TIME = 3000;
 
     public static void main(String[] args) throws InterruptedException, IOException {
         List<Score> score = new ArrayList<>();
@@ -56,7 +56,7 @@ public class HungerGames {
         System.out.println("Enter winners name: ");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String input = br.readLine();
-        if (input.equals(score.get(0))) {
+        if (input.equals(score.get(0).name)) {
             System.out.println("Your win!!");
         }
         System.out.println("Luck next time");
