@@ -3,6 +3,16 @@ public class SearchResults {
     String location_type;
     String woeid;
     String latt_long;
+    String[] consolidated_weather;
+    int the_temp;
+
+    public String[] getConsolidated_weather() {
+        return consolidated_weather;
+    }
+
+    public void setConsolidated_weather(String[] consolidated_weather) {
+        this.consolidated_weather = consolidated_weather;
+    }
 
     public String getTitle() {
         return title;
