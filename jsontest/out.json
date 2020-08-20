@@ -1,1 +1,17 @@
-{"firstName":"Ivan","lastName":"Petrov","age":15}
+{
+  "firstName": "Ivan",
+  "lastName": "Petrov",
+  "age": 15,
+  "address": [
+    {
+      "city": "Berlin",
+      "street": "FirstStr",
+      "hausNum": 1
+    },
+    {
+      "city": "Potsdam",
+      "street": "SecondStr",
+      "hausNum": 2
+    }
+  ]
+}

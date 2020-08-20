@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TelranIdea2.iml" filepath="$PROJECT_DIR$/TelranIdea2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsontest/jsontest.iml" filepath="$PROJECT_DIR$/jsontest/jsontest.iml" />
     </modules>
   </component>
 </project>
