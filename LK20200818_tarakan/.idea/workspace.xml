@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="403a8b74-eb80-4e8b-88c1-1fe56c007de6" name="Default Changelist" comment="LK20200818-Thread2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gHV3pq7NLtZ9HamuRhQvyy6uP9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TelranIdea" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran2.Main" />
+      <module name="LK20200818_tarakan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.Main" />
+      <module name="LK20200818_tarakan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="403a8b74-eb80-4e8b-88c1-1fe56c007de6" name="Default Changelist" comment="" />
+      <created>1597771308718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597771308718</updated>
+    </task>
+    <task id="LOCAL-00001" summary="LK20200818-Thread2">
+      <created>1597780785722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597780785722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LK20200818-Thread2" />
+    <option name="LAST_COMMIT_MESSAGE" value="LK20200818-Thread2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1597777786482">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="512" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/43.27.1323.741@43.27.1323.741" timestamp="1597777786482" />
+    <state width="638" height="300" key="GridCell.Tab.0.bottom" timestamp="1597780856141">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="638" height="300" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1597780856141" />
+    <state width="638" height="300" key="GridCell.Tab.0.center" timestamp="1597780856140">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="638" height="300" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1597780856140" />
+    <state width="638" height="300" key="GridCell.Tab.0.left" timestamp="1597780856140">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="638" height="300" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1597780856140" />
+    <state width="638" height="300" key="GridCell.Tab.0.right" timestamp="1597780856140">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="638" height="300" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1597780856140" />
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597780794896">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/43.27.1323.741@43.27.1323.741" timestamp="1597780794895" />
+    <state x="0" y="27" width="618" height="741" key="find.popup" timestamp="1597776416085">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="0" y="27" width="618" height="741" key="find.popup/43.27.1323.741@43.27.1323.741" timestamp="1597776416085" />
+    <state x="350" y="185" width="698" height="423" key="git4idea.merge.GitPullDialog" timestamp="1597780817947">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="350" y="185" width="698" height="423" key="git4idea.merge.GitPullDialog/43.27.1323.741@43.27.1323.741" timestamp="1597780817947" />
+  </component>
+</project>

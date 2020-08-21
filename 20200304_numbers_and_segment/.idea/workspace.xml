@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="753e57d6-635f-4913-821e-0badf2f5378f" name="Default Changelist" comment="covered numbers" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="TR-Lesson2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fe0AuS8r6dTLNHYagEpEWWRfzR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TelranIdea" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.telran" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IsLovelyTest">
+    <configuration name="IsLovelyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200304_numbers_and_segment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.IsLovelyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsLovelyTest.testIsLovely_one_true" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200304_numbers_and_segment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.IsLovelyTest" />
+      <option name="METHOD_NAME" value="testIsLovely_one_true" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsLovelyTest.testIsLovely_threeSame_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200304_numbers_and_segment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.IsLovelyTest" />
+      <option name="METHOD_NAME" value="testIsLovely_threeSame_false" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsLovelyTest.testIsLovely_two_true" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200304_numbers_and_segment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.IsLovelyTest" />
+      <option name="METHOD_NAME" value="testIsLovely_two_true" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsLovelyTest.testIsLovely_zero_true" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200304_numbers_and_segment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.IsLovelyTest" />
+      <option name="METHOD_NAME" value="testIsLovely_zero_true" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IsLovelyTest.testIsLovely_zero_true" />
+        <item itemvalue="JUnit.IsLovelyTest.testIsLovely_two_true" />
+        <item itemvalue="JUnit.IsLovelyTest.testIsLovely_threeSame_false" />
+        <item itemvalue="JUnit.IsLovelyTest.testIsLovely_one_true" />
+        <item itemvalue="JUnit.IsLovelyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="753e57d6-635f-4913-821e-0badf2f5378f" name="Default Changelist" comment="" />
+      <created>1596563110089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596563110089</updated>
+    </task>
+    <task id="LOCAL-00001" summary="covered numbers">
+      <created>1596579966677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596579966677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="covered numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="covered numbers" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="125" width="1123" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596565423759">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="143" y="125" width="1123" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/43.27.1323.741@43.27.1323.741" timestamp="1596565423759" />
+    <state width="1277" height="259" key="GridCell.Tab.0.bottom" timestamp="1596580013320">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="259" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1596580013320" />
+    <state width="1277" height="259" key="GridCell.Tab.0.center" timestamp="1596580013318">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="259" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1596580013318" />
+    <state width="1277" height="259" key="GridCell.Tab.0.left" timestamp="1596580013318">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="259" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1596580013318" />
+    <state width="1277" height="259" key="GridCell.Tab.0.right" timestamp="1596580013320">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="259" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1596580013320" />
+    <state width="1277" height="259" key="GridCell.Tab.1.bottom" timestamp="1596580013322">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="259" key="GridCell.Tab.1.bottom/43.27.1323.741@43.27.1323.741" timestamp="1596580013322" />
+    <state width="1277" height="259" key="GridCell.Tab.1.center" timestamp="1596580013321">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="259" key="GridCell.Tab.1.center/43.27.1323.741@43.27.1323.741" timestamp="1596580013321" />
+    <state width="1277" height="259" key="GridCell.Tab.1.left" timestamp="1596580013321">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="259" key="GridCell.Tab.1.left/43.27.1323.741@43.27.1323.741" timestamp="1596580013321" />
+    <state width="1277" height="259" key="GridCell.Tab.1.right" timestamp="1596580013322">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="259" key="GridCell.Tab.1.right/43.27.1323.741@43.27.1323.741" timestamp="1596580013322" />
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596579971152">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/43.27.1323.741@43.27.1323.741" timestamp="1596579971152" />
+    <state x="371" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596563365009">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="371" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.27.1323.741@43.27.1323.741" timestamp="1596563365009" />
+    <state x="478" y="201" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596566343670">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="478" y="201" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1596566343670" />
+    <state x="350" y="185" width="698" height="423" key="git4idea.merge.GitPullDialog" timestamp="1596579884430">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="350" y="185" width="698" height="423" key="git4idea.merge.GitPullDialog/43.27.1323.741@43.27.1323.741" timestamp="1596579884430" />
+    <state x="43" y="27" width="1313" height="741" key="new project wizard" timestamp="1596580005182">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="43" y="27" width="1313" height="741" key="new project wizard/43.27.1323.741@43.27.1323.741" timestamp="1596580005182" />
+  </component>
+</project>

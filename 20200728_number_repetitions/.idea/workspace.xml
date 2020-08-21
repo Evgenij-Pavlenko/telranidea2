@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91f5ddcb-b0e7-4e40-ad27-e18936d266d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../20200727_firstJava/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20200727_firstJava/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fKL3dDf8faQR9rtrrEAqUzwOiI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TelranIdea" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.telran" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ReatedNumberFilterTest">
+    <configuration name="ReatedNumberFilterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200728_number_repetitions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.ReatedNumberFilterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReatedNumberFilterTest.testRemainRepeated_emptyList_emptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200728_number_repetitions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.ReatedNumberFilterTest" />
+      <option name="METHOD_NAME" value="testRemainRepeated_emptyList_emptyList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReatedNumberFilterTest" />
+        <item itemvalue="JUnit.ReatedNumberFilterTest.testRemainRepeated_emptyList_emptyList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f5ddcb-b0e7-4e40-ad27-e18936d266d1" name="Default Changelist" comment="" />
+      <created>1595961639325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595961639325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1277" height="174" key="GridCell.Tab.0.bottom" timestamp="1595966379059">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="174" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1595966379059" />
+    <state width="1277" height="174" key="GridCell.Tab.0.center" timestamp="1595966379058">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="174" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1595966379058" />
+    <state width="1277" height="174" key="GridCell.Tab.0.left" timestamp="1595966379058">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="174" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1595966379058" />
+    <state width="1277" height="174" key="GridCell.Tab.0.right" timestamp="1595966379059">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="174" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1595966379059" />
+    <state x="371" y="291" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595961852267">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="371" y="291" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.27.1323.741@43.27.1323.741" timestamp="1595961852267" />
+    <state x="478" y="202" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595961856893">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="478" y="202" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1595961856893" />
+    <state x="426" y="91" width="546" height="612" key="git4idea.branch.GitSmartOperationDialog" timestamp="1595966337208">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="426" y="91" width="546" height="612" key="git4idea.branch.GitSmartOperationDialog/43.27.1323.741@43.27.1323.741" timestamp="1595966337208" />
+    <state x="43" y="27" width="1313" height="741" key="new project wizard" timestamp="1595966375691">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="43" y="27" width="1313" height="741" key="new project wizard/43.27.1323.741@43.27.1323.741" timestamp="1595966375691" />
+  </component>
+</project>

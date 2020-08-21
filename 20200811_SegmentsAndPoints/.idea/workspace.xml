@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a19ce780-9852-4e63-bea1-245c9c7647d8" name="Default Changelist" comment="20200811 - HW-SegmentsAndPoints" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="GH_HomeWork" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fxjJwg47QO4JDPb1Q3abG9Akzg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TelranIdea" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.telran" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CasinoTest">
+    <configuration name="CasinoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200811_SegmentsAndPoints" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.CasinoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegmentsAndPointsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200811_SegmentsAndPoints" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.SegmentsAndPointsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegmentsAndPointsTest.testGetNumCover_emptyPointsEmptySegments_emptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200811_SegmentsAndPoints" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.SegmentsAndPointsTest" />
+      <option name="METHOD_NAME" value="testGetNumCover_emptyPointsEmptySegments_emptyList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextCutterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200811_SegmentsAndPoints" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.TextCutterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TextCutterTest" />
+        <item itemvalue="JUnit.SegmentsAndPointsTest.testGetNumCover_emptyPointsEmptySegments_emptyList" />
+        <item itemvalue="JUnit.SegmentsAndPointsTest" />
+        <item itemvalue="JUnit.CasinoTest" />
+        <item itemvalue="JUnit.SegmentsAndPointsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a19ce780-9852-4e63-bea1-245c9c7647d8" name="Default Changelist" comment="" />
+      <created>1597166569739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597166569739</updated>
+    </task>
+    <task id="LOCAL-00001" summary="20200811 - Lesson">
+      <created>1597173299676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597173299676</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20200811 - HW-SegmentsAndPoints">
+      <created>1597176182031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597176182031</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20200811 - Lesson" />
+    <MESSAGE value="20200811 - HW-SegmentsAndPoints" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200811 - HW-SegmentsAndPoints" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1597166646512">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="512" y="115" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/43.27.1323.741@43.27.1323.741" timestamp="1597166646512" />
+    <state width="1277" height="175" key="GridCell.Tab.0.bottom" timestamp="1597176428708">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="175" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1597176428708" />
+    <state width="1277" height="175" key="GridCell.Tab.0.center" timestamp="1597176428707">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="175" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1597176428707" />
+    <state width="1277" height="175" key="GridCell.Tab.0.left" timestamp="1597176428707">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="175" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1597176428707" />
+    <state width="1277" height="175" key="GridCell.Tab.0.right" timestamp="1597176428707">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="175" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1597176428707" />
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597176189956">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/43.27.1323.741@43.27.1323.741" timestamp="1597176189956" />
+    <state x="371" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597166756745">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="371" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.27.1323.741@43.27.1323.741" timestamp="1597166756745" />
+    <state x="478" y="201" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597172506715">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="478" y="201" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1597172506715" />
+  </component>
+</project>

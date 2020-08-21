@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f528d067-58d2-4548-abc0-3ea04d883673" name="Default Changelist" comment="HW-Task 200731 - corrected all" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fSmFN0gzoRYwbckGxA0X1sWXor" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TelranIdea" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.telan" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PointsAtLineTest.testFindMaxPoints_NegativeAndPozitive_points">
+    <configuration name="PointsAtLineTest.testFindMaxPoints_NegativeAndPozitive_points" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW-20200731-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telan" />
+      <option name="MAIN_CLASS_NAME" value="com.telan.PointsAtLineTest" />
+      <option name="METHOD_NAME" value="testFindMaxPoints_NegativeAndPozitive_points" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointsAtLineTest.testFindMaxPoints_line_points" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW-20200731-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telan" />
+      <option name="MAIN_CLASS_NAME" value="com.telan.PointsAtLineTest" />
+      <option name="METHOD_NAME" value="testFindMaxPoints_line_points" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW-20200731-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telan" />
+      <option name="MAIN_CLASS_NAME" value="com.telan.SingleNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumberTest.testGetUniqe_listWith1_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW-20200731-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telan" />
+      <option name="MAIN_CLASS_NAME" value="com.telan.SingleNumberTest" />
+      <option name="METHOD_NAME" value="testGetUniqe_listWith1_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumberTest.testGetUniqe_listWithTwo5_0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW-20200731-Lists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telan" />
+      <option name="MAIN_CLASS_NAME" value="com.telan.SingleNumberTest" />
+      <option name="METHOD_NAME" value="testGetUniqe_listWithTwo5_0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PointsAtLineTest.testFindMaxPoints_NegativeAndPozitive_points" />
+        <item itemvalue="JUnit.PointsAtLineTest.testFindMaxPoints_line_points" />
+        <item itemvalue="JUnit.SingleNumberTest" />
+        <item itemvalue="JUnit.SingleNumberTest.testGetUniqe_listWithTwo5_0" />
+        <item itemvalue="JUnit.SingleNumberTest.testGetUniqe_listWith1_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f528d067-58d2-4548-abc0-3ea04d883673" name="Default Changelist" comment="" />
+      <created>1596219763602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596219763602</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HW-Task 200731 - Singlenumber">
+      <created>1596383915252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596383915252</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HW-Task 200731 - PointAtLine">
+      <created>1596383934130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596383934130</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HW-Task 200731 - SingleNumber - method separation">
+      <created>1596384637249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596384637249</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HW-Task 200731 - PointAtLine - corrected">
+      <created>1596406189778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596406189778</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HW-Task 200731 - corrected all">
+      <created>1596478969716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596478969716</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW-PointsAtLine" />
+    <MESSAGE value="HW-Task 200731 - Singlenumber" />
+    <MESSAGE value="HW-Task 200731 - PointAtLine" />
+    <MESSAGE value="HW-Task 200731 - SingleNumber - method separation" />
+    <MESSAGE value="HW-Task 200731 - PointAtLine - corrected" />
+    <MESSAGE value="HW-Task 200731 - corrected all" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW-Task 200731 - corrected all" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596479018086">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="487" y="154" width="424" height="484" key="FileChooserDialogImpl/43.27.1323.741@43.27.1323.741" timestamp="1596479018086" />
+    <state width="1277" height="312" key="GridCell.Tab.0.bottom" timestamp="1596467286549">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="312" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1596467286549" />
+    <state width="1277" height="312" key="GridCell.Tab.0.center" timestamp="1596467286548">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="312" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1596467286548" />
+    <state width="1277" height="312" key="GridCell.Tab.0.left" timestamp="1596467286548">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="312" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1596467286548" />
+    <state width="1277" height="312" key="GridCell.Tab.0.right" timestamp="1596467286549">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="312" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1596467286549" />
+    <state width="1277" height="312" key="GridCell.Tab.1.bottom" timestamp="1596467286550">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="312" key="GridCell.Tab.1.bottom/43.27.1323.741@43.27.1323.741" timestamp="1596467286550" />
+    <state width="1277" height="312" key="GridCell.Tab.1.center" timestamp="1596467286550">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="312" key="GridCell.Tab.1.center/43.27.1323.741@43.27.1323.741" timestamp="1596467286550" />
+    <state width="1277" height="312" key="GridCell.Tab.1.left" timestamp="1596467286549">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="312" key="GridCell.Tab.1.left/43.27.1323.741@43.27.1323.741" timestamp="1596467286549" />
+    <state width="1277" height="312" key="GridCell.Tab.1.right" timestamp="1596467286550">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="312" key="GridCell.Tab.1.right/43.27.1323.741@43.27.1323.741" timestamp="1596467286550" />
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596478973943">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/43.27.1323.741@43.27.1323.741" timestamp="1596478973943" />
+    <state x="371" y="291" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596219903037">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="371" y="291" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.27.1323.741@43.27.1323.741" timestamp="1596219903037" />
+    <state x="475" y="311" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596478986610">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="475" y="311" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/43.27.1323.741@43.27.1323.741" timestamp="1596478986610" />
+    <state x="478" y="202" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596224537355">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="478" y="202" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1596224537355" />
+    <state x="425" y="90" width="549" height="612" key="git4idea.branch.GitSmartOperationDialog" timestamp="1596478947721">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="425" y="90" width="549" height="612" key="git4idea.branch.GitSmartOperationDialog/43.27.1323.741@43.27.1323.741" timestamp="1596478947721" />
+    <state x="350" y="185" width="698" height="423" key="git4idea.merge.GitPullDialog" timestamp="1596478996623">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="350" y="185" width="698" height="423" key="git4idea.merge.GitPullDialog/43.27.1323.741@43.27.1323.741" timestamp="1596478996623" />
+    <state x="43" y="27" width="1313" height="741" key="new project wizard" timestamp="1596479029574">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="43" y="27" width="1313" height="741" key="new project wizard/43.27.1323.741@43.27.1323.741" timestamp="1596479029574" />
+  </component>
+</project>

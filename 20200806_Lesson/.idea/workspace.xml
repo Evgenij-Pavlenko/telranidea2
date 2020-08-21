@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40eb62c8-e9cb-4ba7-ba2b-b12a9b79f2af" name="Default Changelist" comment="Task 1(isLovely) and 3(TextWithN)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="HW-20200807" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fjcv19K81sOQGWLskZHc6MGyzB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TextWithNTest.testMakeText_HelloWorlAndTwoSpasedAndN6_Hello">
+    <configuration name="TextWithNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200806_Lesson" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TextWithNTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextWithNTest.testMakeText_HelloWorlAndTwoSpasedAndN6_Hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200806_Lesson" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TextWithNTest" />
+      <option name="METHOD_NAME" value="testMakeText_HelloWorlAndTwoSpasedAndN6_Hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextWithNTest.testMakeText_HelloWorldAndN5_Hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200806_Lesson" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TextWithNTest" />
+      <option name="METHOD_NAME" value="testMakeText_HelloWorldAndN5_Hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextWithNTest.testMakeText_Hello_AndN5_Hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200806_Lesson" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TextWithNTest" />
+      <option name="METHOD_NAME" value="testMakeText_Hello_AndN5_Hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextWithNTest.testMakeText_Hello_AndN6_Hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20200806_Lesson" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TextWithNTest" />
+      <option name="METHOD_NAME" value="testMakeText_Hello_AndN6_Hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TextWithNTest.testMakeText_HelloWorldAndN5_Hello" />
+        <item itemvalue="JUnit.TextWithNTest.testMakeText_HelloWorlAndTwoSpasedAndN6_Hello" />
+        <item itemvalue="JUnit.TextWithNTest.testMakeText_Hello_AndN6_Hello" />
+        <item itemvalue="JUnit.TextWithNTest.testMakeText_Hello_AndN5_Hello" />
+        <item itemvalue="JUnit.TextWithNTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40eb62c8-e9cb-4ba7-ba2b-b12a9b79f2af" name="Default Changelist" comment="" />
+      <created>1596735168038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596735168038</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Task 1(isLovely) and 3(TextWithN)">
+      <created>1596739621327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596739621327</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1(isLovely) and 3(TextWithN)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1(isLovely) and 3(TextWithN)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="125" width="1123" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596738685987">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="143" y="125" width="1123" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/43.27.1323.741@43.27.1323.741" timestamp="1596738685987" />
+    <state x="437" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596738624644">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="437" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/43.27.1323.741@43.27.1323.741" timestamp="1596738624644" />
+    <state x="437" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1596735500510">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="437" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/43.27.1323.741@43.27.1323.741" timestamp="1596735500510" />
+    <state width="1277" height="175" key="GridCell.Tab.0.bottom" timestamp="1596739674287">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="175" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1596739674287" />
+    <state width="1277" height="175" key="GridCell.Tab.0.center" timestamp="1596739674287">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="175" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1596739674287" />
+    <state width="1277" height="175" key="GridCell.Tab.0.left" timestamp="1596739674286">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="175" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1596739674286" />
+    <state width="1277" height="175" key="GridCell.Tab.0.right" timestamp="1596739674287">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1277" height="175" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1596739674287" />
+    <state x="371" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596735245425">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="371" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.27.1323.741@43.27.1323.741" timestamp="1596735245425" />
+    <state x="478" y="201" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596735246656">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="478" y="201" width="442" height="391" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1596735246656" />
+  </component>
+</project>
