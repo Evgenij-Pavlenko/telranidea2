@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e026dd6c-9865-4561-b79b-4c091c438045" name="Default Changelist" comment="add Address + make out.json">
-      <change afterPath="$PROJECT_DIR$/addresses.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TelranIdea2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TelranIdea2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsontest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.json" beforeDir="false" afterPath="$PROJECT_DIR$/out.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +45,7 @@
       <recent name="C:\telranidea2\jsontest\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainTemp">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="jsontest" />
@@ -66,8 +53,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTemp" />
+      <module name="jsontest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTemp" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -76,41 +71,47 @@
     <configuration />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore" />
     <MESSAGE value="add Address + make out.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Address + make out.json" />
+    <MESSAGE value="temp ((" />
+    <option name="LAST_COMMIT_MESSAGE" value="temp ((" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1597965813723">
+    <state x="765" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1597967289240">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
-    <state x="765" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1920.955@0.0.1920.955" timestamp="1597965813723" />
-    <state x="614" y="73" key="CommitChangelistDialog2" timestamp="1597966107294">
+    <state x="765" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1920.955@0.0.1920.955" timestamp="1597967289240" />
+    <state x="614" y="73" key="CommitChangelistDialog2" timestamp="1597967656868">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
-    <state x="614" y="73" key="CommitChangelistDialog2/0.0.1920.955@0.0.1920.955" timestamp="1597966107294" />
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1597965838373">
+    <state x="614" y="73" key="CommitChangelistDialog2/0.0.1920.955@0.0.1920.955" timestamp="1597967656868" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1597967766718">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.955@0.0.1920.955" timestamp="1597965838373" />
-    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1597965838373">
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1597967766718">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.955@0.0.1920.955" timestamp="1597965838373" />
-    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1597965838373">
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1597967766718">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.955@0.0.1920.955" timestamp="1597965838373" />
-    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1597965838373">
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1597967766718">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.955@0.0.1920.955" timestamp="1597965838373" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
     <state x="490" y="133" key="Maven.ArtifactSearchDialog" timestamp="1597963914749">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
     <state x="490" y="133" key="Maven.ArtifactSearchDialog/0.0.1920.955@0.0.1920.955" timestamp="1597963914749" />
-    <state x="552" y="211" key="Vcs.Push.Dialog.v2" timestamp="1597966112562">
+    <state x="552" y="211" key="Vcs.Push.Dialog.v2" timestamp="1597967669802">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
-    <state x="552" y="211" key="Vcs.Push.Dialog.v2/0.0.1920.955@0.0.1920.955" timestamp="1597966112562" />
+    <state x="552" y="211" key="Vcs.Push.Dialog.v2/0.0.1920.955@0.0.1920.955" timestamp="1597967669802" />
+    <state x="421" y="179" key="git4idea.branch.GitSmartOperationDialog" timestamp="1598222752677">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="421" y="179" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.930@0.0.1280.930" timestamp="1598222752677" />
   </component>
 </project>
