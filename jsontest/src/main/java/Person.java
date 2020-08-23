@@ -5,7 +5,15 @@ public class Person {
     private String firstName;
     private String lastName;
     private int age;
+    private List<Address> address;
 
+    public List<Address> getAddress() {
+        return address;
+    }
+
+    public void setAddress(List<Address> address) {
+        this.address = address;
+    }
 
     public void setFirstName(String firstName) {
         this.firstName = firstName;
@@ -37,6 +45,7 @@ public class Person {
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", age=" + age +
+                ", address=" + address +
                 '}';
     }
 }

@@ -1,0 +1,17 @@
+{
+  "firstName": "Ivan",
+  "lastName": "Ivanov",
+  "age": 40,
+  "address": [
+    {
+      "city": "Berlin",
+      "street": "Reichstg",
+      "hausNum": 1
+    },
+    {
+      "city": "Dresden",
+      "street": "ErsteStr",
+      "hausNum": 2
+    }
+  ]
+}
