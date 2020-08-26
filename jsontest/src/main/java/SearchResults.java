@@ -34,16 +34,6 @@ public class SearchResults {
         return woeid;
     }
 
-    @Override
-    public String toString() {
-        return "SearchResults{" +
-                "title='" + title + '\'' +
-                ", location_type='" + location_type + '\'' +
-                ", woeid='" + woeid + '\'' +
-                ", latt_long='" + latt_long + '\'' +
-                '}';
-    }
-
     public void setWoeid(String woeid) {
         this.woeid = woeid;
     }
@@ -55,4 +45,24 @@ public class SearchResults {
     public void setLatt_long(String latt_long) {
         this.latt_long = latt_long;
     }
+
+    public int getThe_temp() {
+        return the_temp;
+    }
+
+    public void setThe_temp(int the_temp) {
+        this.the_temp = the_temp;
+    }
+
+    @Override
+    public String toString() {
+        return "SearchResults{" +
+                "title='" + title + '\'' +
+                ", location_type='" + location_type + '\'' +
+                ", woeid='" + woeid + '\'' +
+                ", latt_long='" + latt_long + '\'' +
+                '}';
+    }
+
+
 }

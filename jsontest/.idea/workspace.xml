@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e026dd6c-9865-4561-b79b-4c091c438045" name="Default Changelist" comment="add Address + make out.json">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConsolidatedWeather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Forecast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainTemp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainTemp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SearchResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SearchResults.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,13 +44,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\telranidea2\jsontest" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\telranidea2\jsontest\src\main\java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\telranidea2\jsontest" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MainTemp">
@@ -77,34 +90,51 @@
     <option name="LAST_COMMIT_MESSAGE" value="temp ((" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1597967289240">
-      <screen x="0" y="0" width="1920" height="955" />
+    <state x="510" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1598458904449">
+      <screen x="0" y="0" width="1280" height="930" />
     </state>
+    <state x="510" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1280.930@0.0.1280.930" timestamp="1598458904449" />
     <state x="765" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1920.955@0.0.1920.955" timestamp="1597967289240" />
+    <state x="289" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598456499508">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="289" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.930@0.0.1280.930" timestamp="1598456499508" />
+    <state x="387" y="322" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598454139928">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="387" y="322" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.930@0.0.1280.930" timestamp="1598454139928" />
     <state x="614" y="73" key="CommitChangelistDialog2" timestamp="1597967656868">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
     <state x="614" y="73" key="CommitChangelistDialog2/0.0.1920.955@0.0.1920.955" timestamp="1597967656868" />
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1597967766718">
-      <screen x="0" y="0" width="1920" height="955" />
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom" timestamp="1598458949253">
+      <screen x="0" y="0" width="1280" height="930" />
     </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.930@0.0.1280.930" timestamp="1598458949253" />
     <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
-    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1597967766718">
-      <screen x="0" y="0" width="1920" height="955" />
+    <state width="1237" height="245" key="GridCell.Tab.0.center" timestamp="1598458949253">
+      <screen x="0" y="0" width="1280" height="930" />
     </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.930@0.0.1280.930" timestamp="1598458949253" />
     <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
-    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1597967766718">
-      <screen x="0" y="0" width="1920" height="955" />
+    <state width="1237" height="245" key="GridCell.Tab.0.left" timestamp="1598458949253">
+      <screen x="0" y="0" width="1280" height="930" />
     </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.930@0.0.1280.930" timestamp="1598458949253" />
     <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
-    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1597967766718">
-      <screen x="0" y="0" width="1920" height="955" />
+    <state width="1237" height="245" key="GridCell.Tab.0.right" timestamp="1598458949253">
+      <screen x="0" y="0" width="1280" height="930" />
     </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.930@0.0.1280.930" timestamp="1598458949253" />
     <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
     <state x="490" y="133" key="Maven.ArtifactSearchDialog" timestamp="1597963914749">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
     <state x="490" y="133" key="Maven.ArtifactSearchDialog/0.0.1920.955@0.0.1920.955" timestamp="1597963914749" />
+    <state x="141" y="108" key="SettingsEditor" timestamp="1598454294458">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="141" y="108" key="SettingsEditor/0.0.1280.930@0.0.1280.930" timestamp="1598454294458" />
     <state x="552" y="211" key="Vcs.Push.Dialog.v2" timestamp="1597967669802">
       <screen x="0" y="0" width="1920" height="955" />
     </state>
