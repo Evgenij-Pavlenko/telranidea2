@@ -8,6 +8,6 @@ public class IntegerService {
     private int secret = 55;
 
     public int getInteger() {
-        return 42;
+        return secret;
     }
 }
