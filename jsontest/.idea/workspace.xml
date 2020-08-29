@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e026dd6c-9865-4561-b79b-4c091c438045" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="HW20200820_JSON" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gNnCnyker4Cxr4UZa5w4UfmUHd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\telranidea2\jsontest\src\main\java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\telranidea2\jsontest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="jsontest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTemp" />
+      <module name="jsontest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTemp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainTemp" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="add Address + make out.json" />
+    <MESSAGE value="temp ((" />
+    <MESSAGE value="get Temp correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="get Temp correct" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1598458904449">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="510" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1280.930@0.0.1280.930" timestamp="1598458904449" />
+    <state x="765" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1920.955@0.0.1920.955" timestamp="1597967289240" />
+    <state x="289" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598456499508">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="289" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.930@0.0.1280.930" timestamp="1598456499508" />
+    <state x="387" y="322" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598454139928">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="387" y="322" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.930@0.0.1280.930" timestamp="1598454139928" />
+    <state x="409" y="71" key="CommitChangelistDialog2" timestamp="1598459115647">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="409" y="71" key="CommitChangelistDialog2/0.0.1280.930@0.0.1280.930" timestamp="1598459115647" />
+    <state x="614" y="73" key="CommitChangelistDialog2/0.0.1920.955@0.0.1920.955" timestamp="1597967656868" />
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom" timestamp="1598482494572">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.930@0.0.1280.930" timestamp="1598482494572" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
+    <state width="1237" height="245" key="GridCell.Tab.0.center" timestamp="1598482494572">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.930@0.0.1280.930" timestamp="1598482494572" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
+    <state width="1237" height="245" key="GridCell.Tab.0.left" timestamp="1598482494572">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.930@0.0.1280.930" timestamp="1598482494572" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
+    <state width="1237" height="245" key="GridCell.Tab.0.right" timestamp="1598482494572">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.930@0.0.1280.930" timestamp="1598482494572" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.955@0.0.1920.955" timestamp="1597967766718" />
+    <state x="490" y="133" key="Maven.ArtifactSearchDialog" timestamp="1597963914749">
+      <screen x="0" y="0" width="1920" height="955" />
+    </state>
+    <state x="490" y="133" key="Maven.ArtifactSearchDialog/0.0.1920.955@0.0.1920.955" timestamp="1597963914749" />
+    <state x="141" y="81" key="SettingsEditor" timestamp="1598549013595">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="141" y="81" key="SettingsEditor/0.0.1280.930@0.0.1280.930" timestamp="1598549013595" />
+    <state x="552" y="211" key="Vcs.Push.Dialog.v2" timestamp="1597967669802">
+      <screen x="0" y="0" width="1920" height="955" />
+    </state>
+    <state x="552" y="211" key="Vcs.Push.Dialog.v2/0.0.1920.955@0.0.1920.955" timestamp="1597967669802" />
+    <state x="421" y="179" key="git4idea.branch.GitSmartOperationDialog" timestamp="1598222752677">
+      <screen x="0" y="0" width="1280" height="930" />
+    </state>
+    <state x="421" y="179" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.930@0.0.1280.930" timestamp="1598222752677" />
+  </component>
+</project>
