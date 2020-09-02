@@ -46,7 +46,7 @@ class SubstringTest {
     }
     @Test
     public void testSub_HelloK6_1() {
-        List<String> expected = Arrays.asList("Hello");
+        List<String> expected = Collections.EMPTY_LIST;
         assertEquals(expected, sub.sub(6, "Hello"));
     }
     @Test

@@ -12,7 +12,6 @@ public class Substring {
 
         List<String> ret = new ArrayList<>();
         if (k>s.length()){
-            ret.add(s);
             return ret;
         }
             for (int i = 0; i <= s.length() - k; i++) {
