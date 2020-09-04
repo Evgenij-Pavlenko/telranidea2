@@ -16,11 +16,8 @@ public class Substring {
         }
             for (int i = 0; i <= s.length() - k; i++) {
                 String sub = s.substring(i, i + k);
-//                Set<Character> collect = sub.chars()
-//                        .mapToObj(c -> (char) c)
-//                        .collect(Collectors.toSet());
+
                 long count = sub.chars().distinct().count();
-//                if (sub.length()-collect.size()==1){
                 if (sub.length()-count==1){
                     ret.add(sub);
                 }
