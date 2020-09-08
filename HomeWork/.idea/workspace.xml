@@ -70,14 +70,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringHandling">
-    <configuration name="StringHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringHandling" />
-      <module name="HomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SubstringTest">
     <configuration name="ListPlusMinusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <extension name="coverage">
@@ -88,6 +81,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
       <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.ListPlusMinusTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="substring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="substring" />
+      <option name="MAIN_CLASS_NAME" value="substring.SubstringTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SubstringTest" />
         <item itemvalue="JUnit.TextWithNTest.testMakeText_HelloWorldAndN11_HelloWorld" />
         <item itemvalue="JUnit.TextWithNTest.testMakeText_HelloWorldAndN4_emptyString" />
         <item itemvalue="JUnit.TextWithNTest" />
         <item itemvalue="JUnit.ListPlusMinusTest" />
-        <item itemvalue="Application.StringHandling" />
       </list>
     </recent_temporary>
   </component>
