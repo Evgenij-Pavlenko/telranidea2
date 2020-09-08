@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdee3e46-ea1b-4938-a677-63e58acf7a8f" name="Default Changelist" comment="HW20200818 - Kredits - first edition" />
+    <list default="true" id="cdee3e46-ea1b-4938-a677-63e58acf7a8f" name="Default Changelist" comment="HW20200902 - tree height">
+      <change afterPath="$PROJECT_DIR$/src/treeSum/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treeSum/NodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,15 +32,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="HW20200817-Thread" />
+        <entry key="$PROJECT_DIR$/.." value="HW20200820_JSON2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -57,84 +61,101 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TelranIdea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/treeSum" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="tree" />
       <recent name="" />
       <recent name="HW20200807_casino" />
       <recent name="HW20200806_Interval" />
       <recent name="HW20200304_isLovely" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="substring" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/treeSum" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.StringHandling">
-    <configuration name="StringHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringHandling" />
-      <module name="HomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListPlusMinusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.NodeTest (1)">
+    <configuration name="NodeTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW20200304_isLovely.*" />
+          <option name="PATTERN" value="treeSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
-      <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.ListPlusMinusTest" />
+      <option name="PACKAGE_NAME" value="treeSum" />
+      <option name="MAIN_CLASS_NAME" value="treeSum.NodeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextWithNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NodeTest.testSum_5_38" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW20200304_isLovely.*" />
+          <option name="PATTERN" value="treeSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
-      <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.TextWithNTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextWithNTest.testMakeText_HelloWorldAndN11_HelloWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW20200304_isLovely.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
-      <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.TextWithNTest" />
-      <option name="METHOD_NAME" value="testMakeText_HelloWorldAndN11_HelloWorld" />
+      <option name="PACKAGE_NAME" value="treeSum" />
+      <option name="MAIN_CLASS_NAME" value="treeSum.NodeTest" />
+      <option name="METHOD_NAME" value="testSum_5_38" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextWithNTest.testMakeText_HelloWorldAndN4_emptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NodeTest.testSum_7_30" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW20200304_isLovely.*" />
+          <option name="PATTERN" value="treeSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
-      <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.TextWithNTest" />
-      <option name="METHOD_NAME" value="testMakeText_HelloWorldAndN4_emptyString" />
+      <option name="PACKAGE_NAME" value="treeSum" />
+      <option name="MAIN_CLASS_NAME" value="treeSum.NodeTest" />
+      <option name="METHOD_NAME" value="testSum_7_30" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NodeTest.testSum_8_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treeSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="treeSum" />
+      <option name="MAIN_CLASS_NAME" value="treeSum.NodeTest" />
+      <option name="METHOD_NAME" value="testSum_8_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NodeTest.testSum_9_17" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treeSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="treeSum" />
+      <option name="MAIN_CLASS_NAME" value="treeSum.NodeTest" />
+      <option name="METHOD_NAME" value="testSum_9_17" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TextWithNTest.testMakeText_HelloWorldAndN11_HelloWorld" />
-        <item itemvalue="JUnit.TextWithNTest.testMakeText_HelloWorldAndN4_emptyString" />
-        <item itemvalue="JUnit.TextWithNTest" />
-        <item itemvalue="JUnit.ListPlusMinusTest" />
-        <item itemvalue="Application.StringHandling" />
+        <item itemvalue="JUnit.NodeTest (1)" />
+        <item itemvalue="JUnit.NodeTest.testSum_5_38" />
+        <item itemvalue="JUnit.NodeTest.testSum_7_30" />
+        <item itemvalue="JUnit.NodeTest.testSum_9_17" />
+        <item itemvalue="JUnit.NodeTest.testSum_8_1" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597791741577</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="HW20200902-substring">
+      <created>1599603408349</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1599603408349</updated>
+    </task>
+    <task id="LOCAL-00020" summary="HW20200902 - tree height">
+      <created>1599606309408</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1599606309408</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,37 +356,39 @@
     <MESSAGE value="HW20200817 - Hunger_Games-Tarakan-Edition - add rate" />
     <MESSAGE value="HW20200817 - Hunger_Games-Tarakan-Edition - add rate2" />
     <MESSAGE value="HW20200818 - Kredits - first edition" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW20200818 - Kredits - first edition" />
+    <MESSAGE value="HW20200902-substring" />
+    <MESSAGE value="HW20200902 - tree height" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW20200902 - tree height" />
   </component>
   <component name="WindowStateProjectService">
     <state x="143" y="125" width="1123" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596655939504">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
     <state x="143" y="125" width="1123" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/43.27.1323.741@43.27.1323.741" timestamp="1596655939504" />
-    <state x="512" y="104" width="553" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1597790658750">
+    <state x="512" y="104" width="553" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1599603571501">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state x="512" y="104" width="553" height="585" key="#com.intellij.ide.util.MemberChooser/43.27.1323.741@43.27.1323.741" timestamp="1597790658750" />
+    <state x="512" y="104" width="553" height="585" key="#com.intellij.ide.util.MemberChooser/43.27.1323.741@43.27.1323.741" timestamp="1599603571501" />
     <state x="416" y="27" width="566" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597702662272">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
     <state x="416" y="27" width="566" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/43.27.1323.741@43.27.1323.741" timestamp="1597702662272" />
-    <state width="1277" height="145" key="GridCell.Tab.0.bottom" timestamp="1597791886237">
+    <state width="1277" height="145" key="GridCell.Tab.0.bottom" timestamp="1599606866810">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state width="1277" height="145" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1597791886237" />
-    <state width="1277" height="145" key="GridCell.Tab.0.center" timestamp="1597791886237">
+    <state width="1277" height="145" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1599606866810" />
+    <state width="1277" height="145" key="GridCell.Tab.0.center" timestamp="1599606866808">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state width="1277" height="145" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1597791886237" />
-    <state width="1277" height="145" key="GridCell.Tab.0.left" timestamp="1597791886236">
+    <state width="1277" height="145" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1599606866808" />
+    <state width="1277" height="145" key="GridCell.Tab.0.left" timestamp="1599606866808">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state width="1277" height="145" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1597791886236" />
-    <state width="1277" height="145" key="GridCell.Tab.0.right" timestamp="1597791886237">
+    <state width="1277" height="145" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1599606866808" />
+    <state width="1277" height="145" key="GridCell.Tab.0.right" timestamp="1599606866809">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state width="1277" height="145" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1597791886237" />
+    <state width="1277" height="145" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1599606866809" />
     <state width="1277" height="236" key="GridCell.Tab.1.bottom" timestamp="1597272513877">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
@@ -384,10 +421,10 @@
       <screen x="43" y="27" width="1323" height="741" />
     </state>
     <state x="376" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.27.1323.741@43.27.1323.741" timestamp="1596580230574" />
-    <state x="464" y="216" width="470" height="360" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597347222027">
+    <state x="464" y="216" width="470" height="360" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599604225525">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state x="464" y="216" width="470" height="360" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1597347222027" />
+    <state x="464" y="216" width="470" height="360" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1599604225525" />
     <state x="426" y="90" width="546" height="612" key="git4idea.branch.GitSmartOperationDialog" timestamp="1597424937298">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
@@ -396,10 +433,10 @@
       <screen x="43" y="27" width="1323" height="741" />
     </state>
     <state x="350" y="185" width="698" height="423" key="git4idea.merge.GitPullDialog/43.27.1323.741@43.27.1323.741" timestamp="1598030078058" />
-    <state x="43" y="27" width="1313" height="741" key="new project wizard" timestamp="1597771308296">
+    <state x="43" y="27" width="1313" height="741" key="new project wizard" timestamp="1599603222829">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state x="43" y="27" width="1313" height="741" key="new project wizard/43.27.1323.741@43.27.1323.741" timestamp="1597771308296" />
+    <state x="43" y="27" width="1313" height="741" key="new project wizard/43.27.1323.741@43.27.1323.741" timestamp="1599603222829" />
     <state x="367" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597762352105">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
