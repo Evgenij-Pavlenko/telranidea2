@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdee3e46-ea1b-4938-a677-63e58acf7a8f" name="Default Changelist" comment="HW20200818 - Kredits - first edition" />
+    <list default="true" id="cdee3e46-ea1b-4938-a677-63e58acf7a8f" name="Default Changelist" comment="HW20200818 - Kredits - first edition">
+      <change afterPath="$PROJECT_DIR$/src/stringSymbol/StringSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringSymbol/StringSymbolTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="HW-20200902-substring-and-tree" />
+        <entry key="$PROJECT_DIR$/.." value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
