@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdee3e46-ea1b-4938-a677-63e58acf7a8f" name="Default Changelist" comment="HW20200818 - Kredits - first edition">
-      <change afterPath="$PROJECT_DIR$/src/stringSymbol/StringSymbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringSymbol/StringSymbolTest.java" afterDir="false" />
+    <list default="true" id="cdee3e46-ea1b-4938-a677-63e58acf7a8f" name="Default Changelist" comment="HW20200909- change case symbol">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/META-INF/HomeWork.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +31,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="master" />
+        <entry key="$PROJECT_DIR$/.." value="LK-Spring" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -64,6 +64,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ChangeCase" />
       <recent name="" />
       <recent name="HW20200807_casino" />
       <recent name="HW20200806_Interval" />
@@ -73,83 +74,92 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringHandling">
-    <configuration name="StringHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringHandling" />
-      <module name="HomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListPlusMinusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ChangeCaseTest">
+    <configuration name="ChangeCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW20200304_isLovely.*" />
+          <option name="PATTERN" value="ChangeCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
-      <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.ListPlusMinusTest" />
+      <option name="PACKAGE_NAME" value="ChangeCase" />
+      <option name="MAIN_CLASS_NAME" value="ChangeCase.ChangeCaseTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextWithNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChangeCaseTest.testChangeCase_empty_empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW20200304_isLovely.*" />
+          <option name="PATTERN" value="ChangeCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
-      <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.TextWithNTest" />
+      <option name="PACKAGE_NAME" value="ChangeCase" />
+      <option name="MAIN_CLASS_NAME" value="ChangeCase.ChangeCaseTest" />
+      <option name="METHOD_NAME" value="testChangeCase_empty_empty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeCaseTest.testChangeCase_smallAndOther_bigAndOther" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChangeCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ChangeCase" />
+      <option name="MAIN_CLASS_NAME" value="ChangeCase.ChangeCaseTest" />
+      <option name="METHOD_NAME" value="testChangeCase_smallAndOther_bigAndOther" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeCaseTest.testChangeCase_small_big" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChangeCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ChangeCase" />
+      <option name="MAIN_CLASS_NAME" value="ChangeCase.ChangeCaseTest" />
+      <option name="METHOD_NAME" value="testChangeCase_small_big" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSymbolTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stringSymbol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stringSymbol" />
+      <option name="MAIN_CLASS_NAME" value="stringSymbol.StringSymbolTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextWithNTest.testMakeText_HelloWorldAndN11_HelloWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW20200304_isLovely.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
-      <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.TextWithNTest" />
-      <option name="METHOD_NAME" value="testMakeText_HelloWorldAndN11_HelloWorld" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextWithNTest.testMakeText_HelloWorldAndN4_emptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW20200304_isLovely.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="HW20200304_isLovely" />
-      <option name="MAIN_CLASS_NAME" value="HW20200304_isLovely.TextWithNTest" />
-      <option name="METHOD_NAME" value="testMakeText_HelloWorldAndN4_emptyString" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TextWithNTest.testMakeText_HelloWorldAndN11_HelloWorld" />
-        <item itemvalue="JUnit.TextWithNTest.testMakeText_HelloWorldAndN4_emptyString" />
-        <item itemvalue="JUnit.TextWithNTest" />
-        <item itemvalue="JUnit.ListPlusMinusTest" />
-        <item itemvalue="Application.StringHandling" />
+        <item itemvalue="JUnit.ChangeCaseTest" />
+        <item itemvalue="JUnit.ChangeCaseTest.testChangeCase_empty_empty" />
+        <item itemvalue="JUnit.ChangeCaseTest.testChangeCase_smallAndOther_bigAndOther" />
+        <item itemvalue="JUnit.ChangeCaseTest.testChangeCase_small_big" />
+        <item itemvalue="JUnit.StringSymbolTest" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597791741577</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="HW20200909- String Symbol with Stack">
+      <created>1599768880804</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1599768880804</updated>
+    </task>
+    <task id="LOCAL-00020" summary="HW20200909- change case symbol">
+      <created>1599778303019</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1599778303019</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,7 +348,9 @@
     <MESSAGE value="HW20200817 - Hunger_Games-Tarakan-Edition - add rate" />
     <MESSAGE value="HW20200817 - Hunger_Games-Tarakan-Edition - add rate2" />
     <MESSAGE value="HW20200818 - Kredits - first edition" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW20200818 - Kredits - first edition" />
+    <MESSAGE value="HW20200909- String Symbol with Stack" />
+    <MESSAGE value="HW20200909- change case symbol" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW20200909- change case symbol" />
   </component>
   <component name="WindowStateProjectService">
     <state x="143" y="125" width="1123" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596655939504">
@@ -339,22 +365,22 @@
       <screen x="43" y="27" width="1323" height="741" />
     </state>
     <state x="416" y="27" width="566" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/43.27.1323.741@43.27.1323.741" timestamp="1597702662272" />
-    <state width="1277" height="145" key="GridCell.Tab.0.bottom" timestamp="1597791886237">
+    <state width="1277" height="227" key="GridCell.Tab.0.bottom" timestamp="1599778375821">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state width="1277" height="145" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1597791886237" />
-    <state width="1277" height="145" key="GridCell.Tab.0.center" timestamp="1597791886237">
+    <state width="1277" height="227" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1599778375821" />
+    <state width="1277" height="227" key="GridCell.Tab.0.center" timestamp="1599778375821">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state width="1277" height="145" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1597791886237" />
-    <state width="1277" height="145" key="GridCell.Tab.0.left" timestamp="1597791886236">
+    <state width="1277" height="227" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1599778375821" />
+    <state width="1277" height="227" key="GridCell.Tab.0.left" timestamp="1599778375820">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state width="1277" height="145" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1597791886236" />
-    <state width="1277" height="145" key="GridCell.Tab.0.right" timestamp="1597791886237">
+    <state width="1277" height="227" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1599778375820" />
+    <state width="1277" height="227" key="GridCell.Tab.0.right" timestamp="1599778375821">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state width="1277" height="145" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1597791886237" />
+    <state width="1277" height="227" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1599778375821" />
     <state width="1277" height="236" key="GridCell.Tab.1.bottom" timestamp="1597272513877">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
@@ -379,18 +405,18 @@
       <screen x="43" y="27" width="1323" height="741" />
     </state>
     <state x="585" y="264" key="MultipleFileMergeDialog/43.27.1323.741@43.27.1323.741" timestamp="1598029927920" />
-    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1598030051048">
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1599778312066">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/43.27.1323.741@43.27.1323.741" timestamp="1598030051048" />
+    <state x="299" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/43.27.1323.741@43.27.1323.741" timestamp="1599778312066" />
     <state x="376" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596580230574">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
     <state x="376" y="290" width="646" height="213" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/43.27.1323.741@43.27.1323.741" timestamp="1596580230574" />
-    <state x="464" y="216" width="470" height="360" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597347222027">
+    <state x="464" y="216" width="470" height="360" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599769062080">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
-    <state x="464" y="216" width="470" height="360" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1597347222027" />
+    <state x="464" y="216" width="470" height="360" key="com.intellij.testIntegration.createTest.CreateTestDialog/43.27.1323.741@43.27.1323.741" timestamp="1599769062080" />
     <state x="426" y="90" width="546" height="612" key="git4idea.branch.GitSmartOperationDialog" timestamp="1597424937298">
       <screen x="43" y="27" width="1323" height="741" />
     </state>
