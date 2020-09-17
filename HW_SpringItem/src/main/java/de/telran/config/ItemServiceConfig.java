@@ -12,9 +12,9 @@ import java.util.List;
 @Configuration
 public class ItemServiceConfig {
 
-    @Bean
-    public ItemService createItemService(){
-        List<Item> items = new ArrayList<>();
-        return new ItemService(items); //?? Fehler
-    }
+//    @Bean
+//    public ItemService createItemService(){
+//        List<Item> items = new ArrayList<>();
+//        return new ItemService(items); //?? Fehler
+//    }
 }

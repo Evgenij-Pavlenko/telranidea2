@@ -16,11 +16,11 @@ public class Item {
     String name;
     String size;
 
-    public Item() {
-    }
-
-    public Item(String name, String size) {
-        this.name = name;
-        this.size = size;
-    }
+//    public Item() {
+//    }
+//
+//    public Item(String name, String size) {
+//        this.name = name;
+//        this.size = size;
+//    }
 }
