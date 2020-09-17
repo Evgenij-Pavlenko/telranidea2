@@ -5,6 +5,7 @@ import de.telran.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
@@ -19,7 +20,7 @@ public class ItemController {
     }
 
     @PostMapping("/api/items")
-    public void addItem(Item item){
+    public void addItem(@RequestBody Item item){
         this.itemService.addItem(item);
     }
 

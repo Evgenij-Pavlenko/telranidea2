@@ -10,21 +10,22 @@ import java.util.Optional;
 
 @Service
 public class ItemService {
-    private ItemRepository itemRepository;
+    private List<Item> items;
 
     @Autowired
-    public ItemService(ItemRepository itemRepository) {
-        this.itemRepository = itemRepository;
+    public ItemService(List<Item> items) {
+        this.items = items;
     }
 
-    public void addItem(Item item){
-        itemRepository.save(item);
-    }
-    public List<Item> getItem(){
-        return itemRepository.findAll();
+    public void addItem(Item item) {
+        items.add(item);
     }
 
-    public Item getItemById(Long id){ // Optional wenn findById(Long id)
-        return itemRepository.getOne(id);
+    public List<Item> getItem() {
+        return items;
+    }
+
+    public Item getItemById(Long id) { // Optional wenn findById(Long id)
+        return items.get(Math.toIntExact(id));
     }
 }

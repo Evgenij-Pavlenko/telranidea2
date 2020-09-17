@@ -4,21 +4,22 @@ import lombok.Data;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Data
 @Entity
 public class Item {
-    @Id
+   private @Id
     @GeneratedValue
-    private Long id;
+    Long id;
     String name;
-    Enum size;
+    String size;
 
     public Item() {
     }
 
-    public Item(String name, Enum size) {
+    public Item(String name, String size) {
         this.name = name;
         this.size = size;
     }
