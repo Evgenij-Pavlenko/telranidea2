@@ -1,6 +1,6 @@
 package de.telran.demo.controller;
 
-import de.telran.demo.BlogService;
+import de.telran.demo.service.BlogService;
 import de.telran.demo.entity.BlogPost;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,7 +12,7 @@ import java.util.List;
 
 @RestController
 public class BlogController {
-    private BlogService blogService;
+     private BlogService blogService;
 
     @Autowired
     public BlogController(BlogService blogService) {

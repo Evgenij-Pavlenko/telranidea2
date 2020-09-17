@@ -1,4 +1,4 @@
-package de.telran.demo;
+package de.telran.demo.service;
 
 import de.telran.demo.entity.BlogPost;
 import de.telran.demo.repository.BlogPostRepository;
@@ -10,7 +10,6 @@ import java.util.List;
 @Service
 public class BlogService {
 
-    //    private List<BlogPost> posts;
     private BlogPostRepository blogPostRepository;
 
     @Autowired
