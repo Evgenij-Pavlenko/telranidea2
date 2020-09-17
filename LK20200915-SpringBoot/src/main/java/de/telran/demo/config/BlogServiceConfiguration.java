@@ -11,10 +11,10 @@ import java.util.List;
 @Configuration
 public class BlogServiceConfiguration {
 
-   @Bean
-    public BlogService createBlogService() {
-       List<BlogPost> posts = new ArrayList<>();
-       return new BlogService(posts);
-    }
+//   @Bean
+//    public BlogService createBlogService() {
+//       List<BlogPost> posts = new ArrayList<>();
+//       return new BlogService(posts);
+//    }
 
 }
