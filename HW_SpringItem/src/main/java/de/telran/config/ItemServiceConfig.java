@@ -15,6 +15,6 @@ public class ItemServiceConfig {
 //    @Bean
 //    public ItemService createItemService(){
 //        List<Item> items = new ArrayList<>();
-//        return new ItemService(items); //?? Fehler
+//        return new ItemService(); //?? Fehler
 //    }
 }

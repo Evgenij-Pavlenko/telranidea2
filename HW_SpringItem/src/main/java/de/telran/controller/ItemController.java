@@ -3,10 +3,7 @@ package de.telran.controller;
 import de.telran.entity.Item;
 import de.telran.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -25,12 +22,12 @@ public class ItemController {
     }
 
     @GetMapping("/api/items")
-    public List<Item> getItem(){
+    public List<Item> getItem(Item item){
         return itemService.getItem();
     }
 
     @GetMapping("/api/items/{id}")
-    public Item getItemById(Long id){
+    public Item getItemById( @PathVariable Long id){
         return itemService.getItemById(id);
     }
 }

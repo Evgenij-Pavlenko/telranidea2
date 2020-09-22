@@ -1,5 +1,6 @@
 package de.telran.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
 
 import javax.persistence.Entity;
@@ -9,6 +10,7 @@ import javax.persistence.Id;
 
 @Data
 @Entity
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class Item {
    private @Id
     @GeneratedValue
@@ -16,11 +18,11 @@ public class Item {
     String name;
     String size;
 
-//    public Item() {
-//    }
-//
-//    public Item(String name, String size) {
-//        this.name = name;
-//        this.size = size;
-//    }
+    public Item() {
+    }
+
+    public Item(String name, String size) {
+        this.name = name;
+        this.size = size;
+    }
 }
