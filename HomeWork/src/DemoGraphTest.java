@@ -16,7 +16,7 @@ class DemoGraphTest {
     DemoGraph demoGraph = new DemoGraph();
     @Test
     public void testDistance(){
-        int actual = demoGraph.distance(g1, 1,2);
+        int actual = demoGraph.distance(g1, g2);
         assertEquals(1, actual);
     }
 

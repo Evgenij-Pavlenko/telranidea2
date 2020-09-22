@@ -2,8 +2,8 @@ import java.util.ArrayList;
 
 public class DemoGraph {
 
-    int distance(ArrayList<ArrayList<Integer>> graph, int start, int finish){
-        int height = -1;
+    int distance(Graph graph1, Graph graph2){
+        int height = 0;
         return height;
     }
 }
