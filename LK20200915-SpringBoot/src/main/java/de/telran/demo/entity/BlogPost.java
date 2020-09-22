@@ -17,12 +17,12 @@ public class BlogPost {
     Long id;
     String title;
     String body;
-//
-//    public BlogPost(){
-//    }
-//
-//    public BlogPost(String title, String body) {
-//        this.title = title;
-//        this.body = body;
-//    }
+
+    public BlogPost() {
+    }
+
+    public BlogPost(String title, String body) {
+        this.title = title;
+        this.body = body;
+    }
 }

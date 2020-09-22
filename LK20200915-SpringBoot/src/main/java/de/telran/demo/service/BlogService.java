@@ -17,8 +17,9 @@ public class BlogService {
         this.blogPostRepository = blogPostRepository;
     }
 
-    public void createBlogPost(BlogPost post) {
-        blogPostRepository.save(post);
+    public BlogPost createBlogPost(BlogPost post) {
+        BlogPost savedPost = blogPostRepository.save(post);
+        return savedPost;
     }
 
     public List<BlogPost> getBlogPost() {
